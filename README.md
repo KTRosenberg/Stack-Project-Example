@@ -2,13 +2,14 @@
 
 - This sample project was built live to showcase strategies for implementing and testing a data structure 
 iteratively
-- we implement an array-based stack in lab7
+- we implement an array-based stack
 -draw_example is a Processing project that uses the array-based stack (inherited as a HistoryStack) and implements an undo feature
 
 ### Open the Lab7 Project
 - importing using Eclipse's `import > existing project` menu
 
 ### Run/Build the Drawing Example
+- This example mini project is a Processing graphics 
 - install Processing from https://processing.org
 
 ##### To run (but not be able to edit)
