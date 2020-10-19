@@ -1,9 +1,7 @@
 # ArrayStack and HistoryStack Example
 
-- This sample project was built live to showcase strategies for implementing and testing a data structure 
-iteratively
-- we implement an array-based stack
--draw_example is a Processing project that uses the array-based stack (inherited as a HistoryStack) and implements an undo feature
+- This sample project was built live to showcase strategies for iteratively implementing and testing an example of a fundamental data structure: an array-based stack with automatic resizing
+- We applied this stack in a Processing sketch project for basic colored-shape drawing, by using it for an "undo operation" stack. (See draw_example) 
 
 ### Open the Lab7 Project
 - importing using Eclipse's `import > existing project` menu
@@ -17,6 +15,7 @@ iteratively
   - Windows (TODO)
 
 ##### To build and run
+  - Processing no longer works with the latest JDK. The solution is to use the JDK bundled inside the Processing application.
   - Open the draw_example project by importing using Eclipse's `import > existing project` menu
   - Right click the project folder in eclipse, select run as > run configurations
   - Go to the JRE tab, making sure the ChalkboardTime project is selected in the "Java Application" sub-menu on the left list
