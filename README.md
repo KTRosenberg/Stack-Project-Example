@@ -11,11 +11,11 @@ iteratively
 ### Run/Build the Drawing Example
 - install Processing from https://processing.org
 
-##### To run
+##### To run (but not be able to edit)
   - MacOS, enter a terminal window in the directory containing the .jar file. start the run file with ./run
   - Windows (TODO)
 
-##### To build
+##### To build and run
   - Open the draw_example project by importing using Eclipse's `import > existing project` menu
   - Right click the project folder in eclipse, select run as > run configurations
   - Go to the JRE tab, making sure the ChalkboardTime project is selected in the "Java Application" sub-menu on the left list
