@@ -1,0 +1,4 @@
+echo "Instructions: click and drag to draw shapes. Use the left arrow key to undo"
+
+/Applications/Processing.app/Contents/PlugIns/jdk1.8.0_202.jdk/Contents/Home/jre/bin/java -jar draw_example.jar
+
