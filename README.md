@@ -3,7 +3,7 @@
 - This sample project was built live to showcase strategies for iteratively implementing and testing an example of a fundamental data structure: an array-based stack with automatic resizing
 - We applied this stack in a Processing sketch project for basic colored-shape drawing, by using it for an "undo operation" stack. (See draw_example) 
 
-### Open the Lab7 Project
+### Open the Project
 - importing using Eclipse's `import > existing project` menu
 
 ### Run/Build the Drawing Example
